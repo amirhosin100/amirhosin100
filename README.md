@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Amirhossein Mirjamali.<br>I am Back-end developer<br>I working with python and Django 
+I'm Amirhossein Mirjamali.<br>A Full-Stack developer with one year experience<br>
 
 
 ## 🌐 Socials:
