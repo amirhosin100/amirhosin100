@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm Amirhossein Mirjamali.<br>A Full-Stack developer<br>
+I'm Amirhossein Mirjamali.
+<br>a backend developer<br>
+ I work with Django and focus primarily on designing and building robust REST API services.
 
 
 ## 🌐 Socials:
